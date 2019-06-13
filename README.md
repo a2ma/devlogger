@@ -1,5 +1,6 @@
 # Devlogger
 
+Created as part of Traversy's Udemy course "Angular Front to Back".
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.4.
 
 ## Development server
